@@ -11,7 +11,7 @@ Welcome to my little corner of the internet! I'm excited about building cool thi
 - 👯 I’m looking for a **partner or a team to work with** on exciting projects! Message me if you are interested!
 - 💬 Ask me about **Node.JS, JavaScript, HTML, Python, GCP, or web/app development**.
 - 📫 How to reach me: See the "Let's Connect!" section below.
-- 😄 Pronouns: (He/Him - *assuming, please correct if wrong!*)
+- 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: I'm a **father of 3 and love creating websites and apps!**
 
 ---
