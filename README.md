@@ -1,56 +1,52 @@
-# 👋 Hi there, I'm Joe! (@joeumn)
+# 👋 Hi, I’m Joe — Builder & MBA @ UMN Carlson (’26)
 
-Welcome to my little corner of the internet! I'm excited about building cool things, learning new stuff, and working with others. Feel free to explore my projects and contributions.
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently an **MBA Student at Carlson School of Management - University of Minnesota - Twin Cities**.
-- 🌱 I’m passionate about **Machine Learning with Python** and building web applications.
-- 👯 I’m looking for a **partner or a team to work with** on exciting projects! Message me if you are interested!
-- 💬 Ask me about **Node.JS, JavaScript, HTML, Python, GCP, or web/app development**.
-- 📫 How to reach me: See the "Let's Connect!" section below.
-- 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I'm a **father of 3 and love creating websites and apps!**
+I design and ship practical software: from ML-powered features to full-stack web apps. Background in sales + B2B go-to-market; now leveling up the tech side to build durable, user-loved products.
 
 ---
 
-## 🛠️ My Tech Stack
-
-*Technologies I enjoy working with:*
-
-- **Languages:** JavaScript, Python, HTML
-- **Backend:** Node.JS
-- **Cloud:** Google Cloud Platform (GCP)
-- **Interests:** Machine Learning
+## 🚀 Focus
+- 🎓 MBA, University of Minnesota – Carlson School (Twin Cities)
+- 🧠 Interests: Machine Learning (Python), Data-driven products, Developer UX
+- 🛠️ Currently building: a **live-stream platform** (low-latency, chat, creator analytics)
 
 ---
 
-## 🌟 My Projects
-
-*Stay tuned for something exciting!*
-
-- **[Coming Soon!]** Currently developing a **live stream platform**. More details will be released soon!
+## 🧰 Tech
+**Languages:** JavaScript, Python, HTML  
+**Backend:** Node.js  
+**Cloud:** Google Cloud Platform (GCP)  
+**Topics I enjoy:** ML prototyping, API design, authentication, dashboards
 
 ---
 
-## 📊 My GitHub Stats
+## 🤝 Collaboration
+I love working with thoughtful teammates. Open to:
+- Pair-building on OSS or small utilities
+- ML features inside real apps (recommendations, simple classifiers)
+- Early-stage B2B product experiments
 
+**Ask me about:** Node.js, JavaScript, Python, HTML, GCP, web/app development.
+
+---
+
+## 📦 Projects
+- **Live-stream Platform (WIP)** — real-time chat, creator tooling. _Repo coming soon._
+- (Add your next repo here →)
+
+> Tip: pin your top repos so they appear on the profile.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joeumn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeumn&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joeumn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeumn&layout=compact&langs_count=7&theme=cobalt" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect
+- **LinkedIn:** <a href="https://linkedin.com/u/executivejoe">linkedin.com/u/executivejoe</a>  
+- **Message me on GitHub**
 
-*Interested in collaborating or just want to chat? Reach out!*
-
-- **LinkedIn:** [linkedin.com/u/executivejoe](https://linkedin.com/u/executivejoe)
-- **Message me on GitHub!**
-
----
-
-Thanks for visiting! Feel free to reach out. ✨
+_(He/Him) · Proud dad of three · I build to learn and to serve users._
